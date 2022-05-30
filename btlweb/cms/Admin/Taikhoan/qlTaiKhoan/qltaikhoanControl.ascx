@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="qltaikhoanControl.ascx.cs" Inherits="btlweb.cms.Admin.Taikhoan.qlTaiKhoan.qltaikhoanControl" %>
+<asp:PlaceHolder ID="plhqlTaiKhoan" runat="server"></asp:PlaceHolder>

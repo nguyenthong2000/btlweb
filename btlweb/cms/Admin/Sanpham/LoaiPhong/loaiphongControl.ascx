@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="loaiphongControl.ascx.cs" Inherits="btlweb.cms.Admin.Sanpham.LoaiPhong.loaiphongControl" %>
+<asp:PlaceHolder ID="plhLoaiPhong" runat="server"></asp:PlaceHolder>

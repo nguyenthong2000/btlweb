@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="qldondatphongControl.ascx.cs" Inherits="btlweb.cms.Admin.Dondatphong.qlDonDatPhong.qldondatphongControl" %>
+<asp:PlaceHolder ID="plhqlDonDatPhong" runat="server"></asp:PlaceHolder>
